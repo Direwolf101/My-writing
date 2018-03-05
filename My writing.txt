@@ -1,5 +1,6 @@
 # My-writing
 Its is the 1st project of me in Github
 
-Today is Moday
+Today is Monday
 Today is Tuesday
+Today is not Monday
